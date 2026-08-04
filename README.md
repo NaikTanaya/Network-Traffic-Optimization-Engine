@@ -346,7 +346,7 @@ kubectl get hpa routing-engine-hpa --watch
 
 # 👨‍💻 Author
 
-**Your Name**
+**Tanaya Naik**
 
 GitHub: [Tanaya Naik](https://github.com/NaikTanaya)
 
