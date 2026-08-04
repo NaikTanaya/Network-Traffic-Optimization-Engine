@@ -6,7 +6,6 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-HPA-326CE5?style=for-the-badge&logo=kubernetes)
 ![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 A **high-performance network routing engine** built using **Spring Boot** that computes the lowest-latency path between virtual network nodes using **Dijkstra** and **A\*** graph algorithms.
 
